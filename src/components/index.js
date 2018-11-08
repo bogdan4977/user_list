@@ -1,2 +1,2 @@
-export { default as VideoFrame } from './VideoFrame/VideoFrame';
-export { default as VideoList } from './VideoList/VideoList';
+export { default as UserFrame } from './UserFrame/UserFrame';
+export { default as UserList } from './UserList/UserList';
