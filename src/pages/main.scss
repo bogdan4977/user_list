@@ -1,0 +1,23 @@
+@import "variables";
+
+//main styles
+#root{
+
+}
+.page-wrapper{
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  h1{
+    width: 100%;
+  }
+}
+.main{
+  width: 60%;
+  padding: 10px;
+}
+.sidebar{
+  width: 30%;
+  padding: 10px;
+}
